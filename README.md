@@ -15,10 +15,9 @@ Bienvenidos al repositorio oficial de **ROBOTEC**, el proyecto de Santiago, Vera
 3. [Proceso de Diseño y Construcción](#proceso-de-diseño-y-construcción)
 4. [Puesta en Escena y Demostración](#puesta-en-escena-y-demostración)
 5. [Innovación y Sostenibilidad](#innovación-y-sostenibilidad)
-6. [Cómo Ejecutar](#cómo-ejecutar)
-7. [Equipo y Créditos](#equipo-y-créditos)
-8. [Multimedia](#multimedia)
-9. [Licencia](#licencia)
+6. [Equipo y Créditos](#equipo-y-créditos)
+7. [Multimedia](#multimedia)
+8. [Licencia](#licencia)
 
 ---
 
@@ -97,16 +96,3 @@ La actuación se divide en tres actos:
 > 🎤 _Jeremy:_ "Este sistema es accesible y poderoso, ideal para proyectos educativos."  
 
 ---
-
-## 🚀 Cómo Ejecutar
-
-```bash
-# Clona el repositorio
-git clone https://github.com/ROBOTEC/robocup-onstage-2025.git
-cd robocup-onstage-2025
-
-# Instala dependencias
-pip install -r requirements.txt
-
-# Inicia la demostración
-evesoros run-demo
