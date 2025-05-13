@@ -11,13 +11,10 @@ Bienvenidos al repositorio oficial de **ROBOTEC**, el proyecto de Santiago, Vera
 ## 📋 Tabla de Contenidos
 
 1. [Introducción](https://github.com/RoboTec137/RoboTec2025/tree/main?tab=readme-ov-file#-introducci%C3%B3n)
-2. [Características Robóticas](#características-robóticas)
-3. [Proceso de Diseño y Construcción](#proceso-de-diseño-y-construcción)
-4. [Puesta en Escena y Demostración](#puesta-en-escena-y-demostración)
-5. [Innovación y Sostenibilidad](#innovación-y-sostenibilidad)
-6. [Equipo y Créditos](#equipo-y-créditos)
-7. [Multimedia](#multimedia)
-8. [Licencia](#licencia)
+2. [Características Robóticas](https://github.com/RoboTec137/RoboTec2025/tree/main?tab=readme-ov-file#%EF%B8%8F-caracter%C3%ADsticas-rob%C3%B3ticas)
+3. [Proceso de Diseño y Construcción](https://github.com/RoboTec137/RoboTec2025/tree/main?tab=readme-ov-file#%EF%B8%8F-proceso-de-dise%C3%B1o-y-construcci%C3%B3n)
+4. [Puesta en Escena y Demostración](https://github.com/RoboTec137/RoboTec2025/tree/main?tab=readme-ov-file#-puesta-en-escena-y-demostraci%C3%B3n)
+5. [Innovación y Sostenibilidad](https://github.com/RoboTec137/RoboTec2025/tree/main?tab=readme-ov-file#-innovaci%C3%B3n-y-sostenibilidad)
 
 ---
 
