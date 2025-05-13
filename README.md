@@ -33,19 +33,15 @@ En esta sección describimos las cuatro características técnicas clave del rob
 
 1. **Diseño electromecánico**
    - Ruedas diferenciales y servomotores para desplazamientos fluidos y movimientos de combate.
-   - ![Esquema Mecánico](Electrónica/elec_(16).jpg)
 
 2. **Sensores ultrasónicos frontales**
    - Detección de obstáculos para interactuar con "molinos de viento" dinámicos.
-   - ![Sensor Ultrasónico](ruta/a/imagen_sensor.png)
 
 3. **Comunicación inalámbrica**
    - Red Wi-Fi local entre cuatro microcomputadoras para sincronizar luces, sonido y movimientos.
-   - ![Topología de Red]()
 
 4. **Programación en C++ y Python**
    - Gestión de sensores, tiempos de respuesta, secuencias de combate, iluminación y audio.
-   - ![Fragmento de Código](ruta/a/codigo_ejemplo.png)
 
 > 🎤 _Jeremy:_ "Nuestro diseño modular permite una coreografía precisa y adaptable."
 
