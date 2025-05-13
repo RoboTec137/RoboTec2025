@@ -10,7 +10,7 @@ Bienvenidos al repositorio oficial de **ROBOTEC**, el proyecto de Santiago, Vera
 
 ## 📋 Tabla de Contenidos
 
-1. [Introducción](#introducción)
+1. [Introducción]([#introducción](https://github.com/RoboTec137/RoboTec2025/tree/main?tab=readme-ov-file#-introducci%C3%B3n))
 2. [Características Robóticas](#características-robóticas)
 3. [Proceso de Diseño y Construcción](#proceso-de-diseño-y-construcción)
 4. [Puesta en Escena y Demostración](#puesta-en-escena-y-demostración)
