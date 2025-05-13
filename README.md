@@ -33,7 +33,7 @@ En esta sección describimos las cuatro características técnicas clave del rob
 
 1. **Diseño electromecánico**
    - Ruedas diferenciales y servomotores para desplazamientos fluidos y movimientos de combate.
-   - ![Esquema Mecánico](Electrónica/elec_(16).jpg")
+   - ![Esquema Mecánico](Electrónica/elec_(16).jpg)
 
 2. **Sensores ultrasónicos frontales**
    - Detección de obstáculos para interactuar con "molinos de viento" dinámicos.
