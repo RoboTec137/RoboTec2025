@@ -41,7 +41,7 @@ En esta sección describimos las cuatro características técnicas clave del rob
 
 3. **Comunicación inalámbrica**
    - Red Wi-Fi local entre cuatro microcomputadoras para sincronizar luces, sonido y movimientos.
-   - ![Topología de Red](ruta/a/topologia_red.png)
+   - ![Topología de Red](Diseño/Dise_(21).jpg)
 
 4. **Programación en C++ y Python**
    - Gestión de sensores, tiempos de respuesta, secuencias de combate, iluminación y audio.
