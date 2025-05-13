@@ -1,6 +1,6 @@
 # 🤖 ROBOTEC - RoboCup Junior OnStage 2025
 
-![Banner del Proyecto](Concepto/Robotes.png)
+![Banner del Proyecto](Concepto/Ban_Robotes.png)
 
 Bienvenidos al repositorio oficial de **ROBOTEC**, el proyecto de Santiago, Veraguas, que combina la pasión por la literatura y la ingeniería para presentar una actuación robótica inspirada en **Don Quijote de la Mancha**.
 
